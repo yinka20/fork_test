@@ -1,1 +1,7 @@
 This is just to test forking tool on GitHub
+
+
+I forked this, cloned it, created branch off it, navigated to the branch, make changes
+
+
+then i will add to staging, commit the changes and push back to my GitHub
